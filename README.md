@@ -1,6 +1,6 @@
 # Feature Engineering Teks: Review Aplikasi MyTelkomsel
 
-Exercise 5 mata kuliah **[ISI NAMA MATA KULIAH]**.
+
 Repositori ini berisi penerapan berbagai teknik *feature engineering* pada teks review aplikasi MyTelkomsel yang sudah melalui tahap preprocessing di exercise sebelumnya, beserta analisis hasilnya.
 
 ## Anggota Kelompok
